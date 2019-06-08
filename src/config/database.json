@@ -1,0 +1,13 @@
+{
+   "dev": {
+    "url": "DEV_MONGO_URL",
+    "user": "DEV_MONGO_USER",
+    "password": "DEV_MONGO_PASSWORD"
+   },
+   "prod": {
+    "url": "PROD_MONGO_URL",
+    "user": "PROD_MONGO_USER",
+    "password": "PROD_MONGO_PASSWORD"
+   }
+}
+
