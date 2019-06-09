@@ -1,6 +1,6 @@
 # NodeJS ES-6 MongoDB Boilerplate
 
-This is boilerplate for NodeJS projects written in the ES-6 standard with MongoDB as the database. This also includes Swagger integration for your documentation. Please feel free to contribute to make this better.
+This is a boilerplate for NodeJS projects written in the ES-6 standard with MongoDB as the database. This also includes Swagger integration for your documentation. Please feel free to contribute to make this better.
 
 ---
 ## Requirements
