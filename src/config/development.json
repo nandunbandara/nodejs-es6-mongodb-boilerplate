@@ -1,0 +1,8 @@
+{
+    "database": {
+        "url": "DEV_MONGO_URL",
+        "user": "DEV_MONGO_USER",
+        "password": "DEV_MONGO_PASSWORD",
+        "host": "DEV_MONGO_HOST"
+    }
+}

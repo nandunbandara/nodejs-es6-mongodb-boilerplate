@@ -1,0 +1,8 @@
+{
+    "database": {
+        "url": "PROD_MONGO_URL",
+        "user": "PROD_MONGO_USER",
+        "password": "PROD_MONGO_PASSWORD",
+        "host": "PROD_MONGO_HOST"
+    }
+}
